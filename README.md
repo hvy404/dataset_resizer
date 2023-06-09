@@ -39,6 +39,11 @@ Start the script
 ```bash
   ./photo_set_resize.sh
 ```
+
+## Screenshots
+
+![Demo](demo.gif)
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
